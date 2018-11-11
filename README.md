@@ -2,4 +2,4 @@
 
 This repository is to investigate the generation of random data and the use the NumPy Random package for that purpose.
 
-The full investigation is within the Jupyter Notebook
+The full investigation is within the Jupyter Notebook PDA2018AssignNumpy.ipynb
